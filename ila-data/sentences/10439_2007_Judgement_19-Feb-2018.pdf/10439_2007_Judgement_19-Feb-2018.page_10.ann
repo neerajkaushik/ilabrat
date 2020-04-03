@@ -1,6 +1,5 @@
-T1	Section 5 22	Sub-section ( 1 )
-T2	Section 26 37	Section 100
 T3	Section 204 220	Subsection ( 3 )
 T4	Section 358 375	Sub-section ( 4 )
-T5	Section 862 873	Sub-section
 T6	Section 976 993	sub-section ( 4 )
+T1	Section 5 37	Sub-section ( 1 ) of Section 100
+T2	Section 862 879	Sub-section ( 5 )
