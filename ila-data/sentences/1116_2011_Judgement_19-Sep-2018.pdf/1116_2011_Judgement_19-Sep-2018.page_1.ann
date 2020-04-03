@@ -1,11 +1,8 @@
 T1	Reportable 0 14	NON-REPORTABLE
 T2	Court 18 44	THE SUPREME COURT OF INDIA
-T3	Appeal_No 97 109	1690 OF 2015
 T4	Appellant 110 123	SUBHASH MAHTO
 T5	Respondent 153 171	THE STATE OF BIHAR
 T6	Judge_Name 204 215	R.BANUMATHI
-T7	Court 304 314	High Court
-T8	Court 327 337	High Court
 T9	Appellant 976 989	Subhash Mahto
 T10	Appellant 1010 1022	Asmani Mahto
 T11	Appellant 1025 1036	Rishi Mahto
@@ -15,3 +12,6 @@ T14	Appellant 1072 1087	Rameshwar Mahto
 T15	Appellant 1090 1104	Bijendra Mahto
 T16	Appellant 1107 1120	Ramroop Mahto
 T17	Appellant 1123 1135	Dukhit Mahto
+T7	Section 386 397	Section 302
+T8	Statue 398 401	IPC
+T3	Appeal_No 77 109	CRIMINAL APPEAL NO. 1690 OF 2015
