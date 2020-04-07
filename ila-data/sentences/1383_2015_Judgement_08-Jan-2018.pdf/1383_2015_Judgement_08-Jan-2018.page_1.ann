@@ -1,5 +1,4 @@
 T1	Reportable 0 10	REPORTABLE
-<<<<<<< HEAD
 T2	Court 14 40	THE SUPREME COURT OF INDIA
 T3	Appeal_No 73 103	CRIMINAL APPEAL NO. 31 OF 2018
 T4	Appellant 154 181	STATE OF HIMACHAL PRADESH .
@@ -10,13 +9,3 @@ T8	Appeal_No 373 404	Criminal Appeal No. 559 of 2008
 T9	Section 437 448	Section 302
 T10	Statue 449 452	IPC
 T11	Public_Witness 692 702	Jeewan Lal
-=======
-T2	Judge_Name 15 40	HE SUPREME COURT OF INDIA
-T3	Appeal_No 73 103	CRIMINAL APPEAL NO. 31 OF 2018
-T4	Appellant 154 179	STATE OF HIMACHAL PRADESH
-T5	Respondent 201 210	RAJ KUMAR
-T6	Judge_Name 234 247	R. BANUMATHIL
-T7	Section 437 448	Section 302
-T8	Court 339 369	High Court of Himachal Pradesh
-T9	Appeal_No 373 404	Criminal Appeal No. 559 of 2008
->>>>>>> 3f479fca8d4bd476562277d743f84aef2821b75b
