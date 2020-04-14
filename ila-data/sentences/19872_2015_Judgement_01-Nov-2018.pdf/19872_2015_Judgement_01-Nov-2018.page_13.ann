@@ -4,5 +4,12 @@ T3	Section 840 851	Section 342
 T4	Reportable 0 14	NON-REPORTABLE
 T5	Court 18 44	THE SUPREME COURT OF INDIA
 T6	Citation 77 109	CRIMINAL APPEAL NO. 1440 OF 2018
-T7	Citation 131 156	( CRL . ) NO. 458 OF 2015
 T8	Section 447 485	Sections 302 , 376 ( 2 ) ( f ) and 342
+T9	Respondent 218 238	STATE OF MAHARASHTRA
+T10	Statue 493 510	Indian Penal Code
+T11	Statue 527 530	IPC
+T12	Statue 855 858	IPC
+T13	Statue 759 762	IPC
+T14	Statue 613 616	IPC
+T7	Special_Leave_Petition 127 156	SLP ( CRL . ) NO. 458 OF 2015
+T15	Judge_Name 271 281	A.K. SIKRI
